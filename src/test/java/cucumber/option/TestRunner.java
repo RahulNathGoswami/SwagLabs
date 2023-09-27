@@ -11,3 +11,5 @@ public class TestRunner {
 
 }
 //manual testing
+//Automation
+//paymentpage
